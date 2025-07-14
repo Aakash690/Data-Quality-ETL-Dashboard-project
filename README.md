@@ -52,3 +52,6 @@ data-quality-etl-dashboard/
 │ └── etl_quality_check.py # Python automation script
 ├── PowerBI_Dashboard.pbix # Power BI dashboard file
 ├── README.md # You're here!
+
+## 📷 Dashboard Preview
+<img width="1211" height="860" alt="image" src="https://github.com/user-attachments/assets/efeda240-7acc-4c9a-88cc-08b2cb9033d5" />
